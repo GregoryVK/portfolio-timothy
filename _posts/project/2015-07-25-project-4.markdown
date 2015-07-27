@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "project 1"
+title:  "unity game"
 date:   2015-07-25 22:39:56
 categories: project
-featured: true
 featured_image: "/images/portfolio-thumb/car.jpg"
 ---
 

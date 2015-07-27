@@ -3,7 +3,7 @@ layout: post
 title:  "car render"
 date:   2015-07-25 22:39:56
 categories: project
-featured_image: "/images/project.png"
+featured_image: "/images/portfolio-thumb/level.jpg"
 
 ---
 
