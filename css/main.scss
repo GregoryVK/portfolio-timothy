@@ -21,7 +21,6 @@
 }
 
 .loader_inner {
-
 	//background-image: url("../images/preloader.gif");
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -143,8 +142,28 @@
 	display: inline-block;
 }
 
+.main_footer {
+	padding: 50px 0;
+	font-size: 13px;
+	font-weight: 300;
 
+}
+.main_footer .social_wrap {
+	float: right;
+	line-height: 0;
+}
+.main_footer .social_wrap ul {
+	margin: 0;
+}
+.social_wrap li {
+	display: inline-block;
+	font-size: 20px;
+	padding: 0 10px;
+}
 
+.page-content {
+	margin-bottom: 0;
+}
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
